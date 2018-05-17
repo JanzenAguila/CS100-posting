@@ -1,0 +1,10 @@
+{
+  "name": "server-app",
+  "version": "0.0.0",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  }
+}
